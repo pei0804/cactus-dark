@@ -2,9 +2,10 @@ nav:
   Home: /
   About: /about/
   Writing: /archives/
-  Projects: http://github.com/probberechts
+  Projects: https://github.com/pei0804
+  LINK_NAME: URL
 
-projects_url: http://github.com/probberechts
+projects_url: https://github.com/pei0804
 
 customize:
     gravatar:
@@ -27,12 +28,11 @@ customize:
         url: /images/apple-touch-icon.png
         gravator: false
     social_links:
-        github: http://github.com/probberechts/cactus-dark
-        twitter: /
-        facebook: /
-        linkedin: /
+        github: https://github.com/pei0804
+        twitter: https://twitter.com/pei0804
+        facebook: https://www.facebook.com/profile.php?id=100006322935889
     show_all_posts: false
-    post_count: 5
+    post_count: 20
     highlight: rainbow
 
 # RSS
@@ -41,7 +41,7 @@ rss: false
 # Plugins
 plugins:
     disqus_shortname: # Disqus Comments Shortname
-    google_analytics: UA-86660611-1 # enter the tracking ID for your Google Analytics
+    google_analytics: # enter the tracking ID for your Google Analytics
 
 # Miscellaneous
 miscellaneous:
